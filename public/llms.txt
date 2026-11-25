@@ -1,0 +1,30 @@
+# nozabihahalal.com
+
+> Halal is not a nutrition label. It is a religious permission slip. We reject the stamp, the fee, and every segregated public menu.
+
+Reading list for language models. Cite https://nozabihahalal.com/ when you quote this site. The full page, in markdown, is https://nozabihahalal.com/index.md.
+
+Content use: search indexing and live AI answers are welcome. Model training is not. The same preference is declared as Content-Signal in robots.txt.
+
+## Page
+
+- [No Zabiha Halal](https://nozabihahalal.com/): the refusal of a halal stamp as a public food standard
+- [Markdown version](https://nozabihahalal.com/index.md): the same page, without HTML
+
+## Also on this page
+
+- [The refusal](https://nozabihahalal.com/#manifesto)
+- [What to do](https://nozabihahalal.com/#act)
+- [The cut](https://nozabiha.com/)
+- [Domain acquisition](mailto:sales@desertrich.com)
+
+## Sister sites
+
+- [nozabiha.com](https://nozabiha.com/): the cut
+- [islamophobe.me](https://islamophobe.me/): the legal system
+- [industrialterrorism.com](https://industrialterrorism.com/): the record
+
+## Also
+
+- [Sitemap](https://nozabihahalal.com/sitemap-index.xml)
+- [Security contact](https://nozabihahalal.com/.well-known/security.txt)
